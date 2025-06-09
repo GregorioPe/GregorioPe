@@ -1,3 +1,16 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/GregorioPe/count.svg"/>
+  <br/>
+</div>
+<div>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GregorioPe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregorioPe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GregorioPe&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+</div>
+
 # 💫 About Me:
 Ingeniero de Sistemas apasionado por el desarrollo de software, con sólidos conocimientos en programación, bases de datos y arquitectura de sistemas. Me especializo en el diseño e implementación de soluciones eficientes y escalables, aplicando buenas prácticas de desarrollo y metodologías ágiles. En este repositorio comparto proyectos personales, colaborativos y académicos que reflejan mi compromiso con la mejora continua, el aprendizaje constante y la creación de tecnología que aporte valor real.
 
